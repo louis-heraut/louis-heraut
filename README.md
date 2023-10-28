@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-56CFE1?logo=JavaScript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-80FFDB?logo=CSS3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-efffb3?logo=HTML5&logoColor=white) 
-&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;
 ![Emacs](https://img.shields.io/badge/Emacs-rgba(0,0,0,0)?logo=gnuemacs&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-rgba(0,0,0,0)?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-rgba(0,0,0,0)?logo=gnubash&logoColor=white)
@@ -19,5 +19,4 @@ Data scientist and aspiring hydro-climatologist at the French National Institute
 Lyon, France
 
 🌱
-
 </div>
