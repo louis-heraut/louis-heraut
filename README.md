@@ -7,12 +7,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-56CFE1?logo=JavaScript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-80FFDB?logo=CSS3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-efffb3?logo=HTML5&logoColor=white)</br>
-![Emacs](https://img.shields.io/badge/Emacs-rgba(0,0,0,0)?logo=gnuemacs&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-rgba(0,0,0,0)?logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-rgba(0,0,0,0)?logo=gnubash&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-rgba(0,0,0,0)?logo=debian&logoColor=white)
-![KDE](https://img.shields.io/badge/KDE-rgba(0,0,0,0)?logo=kde&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-rgba(0,0,0,0)?logo=aseprite&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-black?logo=gnuemacs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-black?logo=debian&logoColor=white)
+![KDE](https://img.shields.io/badge/KDE-black?logo=kde&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-black?logo=aseprite&logoColor=white)
 
 Data scientist and aspiring hydro-climatologist at the French National Institute for Agriculture, Food and Environment (INRAE) </br>
 Lyon, France
