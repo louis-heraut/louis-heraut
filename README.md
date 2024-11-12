@@ -14,7 +14,7 @@
 ![KDE](https://img.shields.io/badge/KDE-black?logo=kde&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-black?logo=aseprite&logoColor=white)
 
-Data scientist at the French National Institute for Agriculture, Food and Environment (INRAE) </br>
+Full stack data engineer at the French National Institute for Agriculture, Food and Environment (INRAE) </br>
 Lyon, France
 
 🌱
