@@ -17,5 +17,5 @@
 Full stack dev and FAIR data engineer at the French National Institute for Agriculture, Food and Environment (INRAE) </br>
 Villeurbanne, France
 
-🌱
+Feel free to reach out to me publicly [here](https://github.com/louis-heraut/louis-heraut/discussions) 🌱
 </div>
