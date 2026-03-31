@@ -12,7 +12,6 @@
 ![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-black?logo=debian&logoColor=white)
 ![KDE](https://img.shields.io/badge/KDE-black?logo=kde&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-black?logo=aseprite&logoColor=white)
 
 Full stack dev and FAIR data engineer at the French National Institute for Agriculture, Food and Environment (INRAE) </br>
 Villeurbanne, France
