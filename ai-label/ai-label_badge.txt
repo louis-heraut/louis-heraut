@@ -1,0 +1,3 @@
+![NO-AI-USED](https://raw.githubusercontent.com/louis-heraut/louis-heraut/main/ai-label/ai-label_badge-no-ai-used.svg)
+![ASSISTED-BY-AI](https://raw.githubusercontent.com/louis-heraut/louis-heraut/main/ai-label/ai-label_badge-assisted-by-ai.svg)
+![MADE-WITH-AI](https://raw.githubusercontent.com/louis-heraut/louis-heraut/main/ai-label/ai-label_badge-made-with-ai.svg) 
