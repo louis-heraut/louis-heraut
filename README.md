@@ -5,7 +5,7 @@
 ![R](https://img.shields.io/badge/R-006466?logo=R&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0b9ea8?logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-56CFE1?logo=JavaScript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-80FFDB?logo=CSS3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-80FFDB?logo=CSS&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-efffb3?logo=HTML5&logoColor=white)</br>
 ![Emacs](https://img.shields.io/badge/Emacs-black?logo=gnuemacs&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
