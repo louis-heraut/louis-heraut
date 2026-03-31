@@ -1,5 +1,7 @@
 ### Ces badges indiquent le rôle de l’IA dans un projet
 
+---
+
 Contenu entièrement humain :<br><br>
 [![NO AI USED](https://raw.githubusercontent.com/louis-heraut/louis-heraut/main/ai-label/ai-label_badge-no-ai-used.svg)](https://ai-label.org/)
 ```
